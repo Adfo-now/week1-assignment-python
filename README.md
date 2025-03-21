@@ -1,5 +1,5 @@
 # week1-assignment-python
-rint("choose an operation:")
+print("choose an operation:")
 print("1 - Add")
 print("2 - Subtract")
 print("3 - Multiply")
