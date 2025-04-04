@@ -23,4 +23,4 @@ if(option in [1,2,3,4]):
     else:
         print("invalid operation entered")
 
-        print("The result of the operation is {}".format(result))
+        print("The result of the operation is {}".format(result)).
